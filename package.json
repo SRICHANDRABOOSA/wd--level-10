@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Vasu",
+  "author": "SRICHANDRA",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
